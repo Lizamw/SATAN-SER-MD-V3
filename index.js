@@ -1,24 +1,10 @@
 //════════════════════════════//
-//If you want to recode, reupload
-//or copy the codes/script,
-//pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
+//Hello Friends Its Me Hell boy
+//Thanks For All For The Support
+//If you Take This Code Give Credits @HELL-BOY,@DGXEON
 //════════════════════════════//
-//recode kar ke youtube pe upload kar rhe ya
-//codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
+//Given The Creadits To DGXeon For The Script
+//✍ ⚞𝑹𝒆𝒅𝒊𝒕𝒆𝒅 𝑩𝒚 𝑯𝒆𝒍𝒍 𝑩𝒐𝒚⚟
 //════════════════════════════//
 
 require("./config.js")
@@ -51,17 +37,17 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: Xeon ','silver'))
-console.log(color('🐶 GITHUB: DGXeon ','silver'))
-console.log(color('🐶 WA NUMBER: +916909137213 ','silver'))
-console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
-    console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
-    console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
-    console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
-    console.log(color('🐶', 'cyan'), color('https://wa.me/917561823024'))
-    console.log(color('🐶', 'cyan'), color('Cheems Bot Is Online...', 'pink'))
-    console.log(color('🐶', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
-    console.log(color('🐶','red'), color('Thanks For Using Cheems Bot', 'white'))
+console.log(color('\n YT CHANNEL: Nop ','silver'))
+console.log(color('GITHUB: HELLBOY7561 ','silver'))
+console.log(color('WA NUMBER: +917561823024 ','silver'))
+console.log(color('  𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫 2022','mediumseagreen'))
+    console.log(color('🌝','red'), color('I Wrote This Script By Myself!', 'yellow'))
+    console.log(color('🌝','red'), color('Source Code Version: 3.0', 'aqua'))
+    console.log(color('🌝','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
+    console.log(color('🌝', 'cyan'), color('https://wa.me/917561823024'))
+    console.log(color('🌝', 'cyan'), color('𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫 𝑰𝒔 𝑶𝒏𝒍𝒊𝒏𝒆...', 'pink'))
+    console.log(color('🌝', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
+    console.log(color('🌝','red'), color('𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑼𝒔𝒊𝒏𝒈 𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫', 'white'))
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const XeonBotInc = XeonBotIncConnect({
         logger: pino({ level: 'silent' }),
@@ -78,7 +64,7 @@ store.bind(XeonBotInc.ev)
     const callerId = json.content[0].attrs['call-creator']
     if (json.content[0].tag == 'offer') {
     let pa7rick = await XeonBotInc.sendContact(callerId, global.owner)
-    XeonBotInc.sendMessage(callerId, { text: `Automatic Block System!\nDon't Call Bot!\nPlease Ask Or Contact The Owner To Unblock You!`}, { quoted : pa7rick })
+    XeonBotInc.sendMessage(callerId, { text: `𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄 𝑩𝒍𝒐𝒄𝒌 𝑺𝒚𝒔𝒕𝒆𝒎!\n𝑫𝒐𝒏'𝒕 𝑪𝒂𝒍𝒍 𝑩𝒐𝒕!\n𝑷𝒍𝒆𝒂𝒔𝒆 𝑨𝒔𝒌 𝑶𝒓 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑻𝒉𝒆 𝑶𝒘𝒏𝒆𝒓 𝑻𝒐 𝑼𝒏𝒃𝒍𝒐𝒄𝒌 𝒀𝒐𝒖!`}, { quoted : pa7rick })
     await sleep(8000)
     await XeonBotInc.updateBlockStatus(callerId, "block")
     }
@@ -165,9 +151,9 @@ XeonBotInc.ev.on('group-participants.update', async (anu) => {
    │❏  𝑴𝒆𝒎𝒃𝒆𝒓 : 
    │⚘ ${xmembers}th
    │❏  𝑱𝒐𝒊𝒏𝒆𝒅 : 
-   │⚘ ${xtime} ${xdate}
+   │⚘ ${xtime}
    │❏ 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑱𝒐𝒊𝒏 𝑻𝒉𝒆 𝑮𝒓𝒐𝒖𝒑🌝
-   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ      
+   │    ⚚𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫     
    └───────────────┈❦`
    //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
@@ -211,8 +197,8 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
    │❏  𝑴𝒆𝒎𝒃𝒆𝒓 : 
    │⚘ ${xeonmembers}th
    │❏  𝑻𝒊𝒎𝒆 : 
-   │⚘ ${xeontime} ${xeondate}
-   │    ⚚ʜᴇʟʟ ʙ͢ᴏʏ ᴍᴅ
+   │⚘ ${xeontime} 
+   │    ⚚𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫
    └───────────────┈❦`
       //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
