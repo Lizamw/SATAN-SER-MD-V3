@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917561823024'] //ur owner number
-global.ownername = "𝑂͢𝐺𝐺𝑌⇄𝑆𝛴𝛤"
-global.ytname = "YT: 𝑺𝒉𝒊𝒛𝒖𝒌𝒂ᑉᶟ" //ur yt chanel name
-global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
-global.location = "India, Kerala, Idukki" //ur location
+global.owner = ['918139868792'] //ur owner number
+global.ownername = "sαԵαղ⇄ѕєя"
+global.ytname = "YT: koppᑉᶟ" //ur yt chanel name
+global.socialm = "GitHub: satanser" //ur github or insta name
+global.location = "India, Kerala, kozhikode" //ur location
 
 //bot bombdy
 global.botname = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫" //ur bot name
 global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫"
-global.author = "𝑂͢𝐺𝐺𝑌⇄𝑆𝛴𝛤"
+global.packname = "sαԵαղ 𝑴𝑫"
+global.author = "sαԵαղ⇄𝑆𝛴𝛤"
 global.themeemoji = "❏"
 global.reactmoji = "🌝"
-global.ownertag = ['917561823024'] //ur owner tag
-global.ownernummenu = ['917561823024'] //ur owner number in menu and all
-global.watermark = "𝑯𝒆𝒍𝒍 𝑩𝒐𝒚 𝑴𝑫" //ur watermark
+global.ownertag = ['8139868792'] //ur owner tag
+global.ownernummenu = ['918139868792'] //ur owner number in menu and all
+global.watermark = "sαԵαղ 𝑴𝑫" //ur watermark
 global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
-global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
-global.linkz2 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
+global.linkz1 = ""
+global.linkz2 = ""
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
